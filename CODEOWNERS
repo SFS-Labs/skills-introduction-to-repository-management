@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @SFS-Labs
+/src/backend/database.py      @SFS-Labs
+/src/backend/routers/auth.py  @SFS-Labs
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @SFS-Labs
